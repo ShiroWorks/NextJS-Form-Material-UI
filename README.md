@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo deployed on vercel
 
-Application URL:
+Application URL: [Live version](https://next-js-form-material-ui.vercel.app/)
 
 ## Getting Started
 
